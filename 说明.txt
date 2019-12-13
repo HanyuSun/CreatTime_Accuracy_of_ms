@@ -1,0 +1,3 @@
+打开File_CreatTime_Accuracy_ms.sln
+添加需要精确读取修改时间的文件位置，hFile = CreateFile(‘在此修改文件路径’)
+运行
